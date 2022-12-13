@@ -1,5 +1,5 @@
 {
-    "name": "ekandreas/bladerunner",
+    "name": "daalder/bladerunner",
     "type": "wordpress-plugin",
     "description": "WordPress Blade L5 template engine",
     "keywords": ["laravel", "blade", "wordpress"],
