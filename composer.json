@@ -12,8 +12,8 @@
     ],
     "require": {
         "php": "^8.0",
-        "illuminate/config": "^5",
-        "illuminate/view": "^5",
+        "illuminate/config": "^6",
+        "illuminate/view": "^6",
         "symfony/yaml": "^3",
         "brain/hierarchy": "^2"
     },
