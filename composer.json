@@ -12,9 +12,9 @@
     ],
     "require": {
         "php": "^8.0",
-        "illuminate/config": "^6",
-        "illuminate/view": "^6",
-        "symfony/yaml": "^3",
+        "illuminate/config": "^9",
+        "illuminate/view": "^9",
+        "symfony/yaml": "^7",
         "brain/hierarchy": "^2"
     },
     "require-dev": {
